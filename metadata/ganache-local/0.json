@@ -1,0 +1,6 @@
+{
+    "name": "Barsik",
+    "description": "This is my virtual cat",
+    "image": "https://ipfs.io/ipfs/QmZFCxEGPxR7Uk9XGj83bYreuwfBe1bbGFEMUoao7mG5Lw?filename=Cat.png",
+    "attributes": [{"traits": "nice", "value": 100}]
+}
